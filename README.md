@@ -14,4 +14,4 @@ The goal of this project is to maintain a clean record of practice modules, algo
 - **Focus:** Logic Building & Scripting
 
 ---
-*Maintained by Shaikh Akram...¡*
+*Maintained by Shaikh Akram...!*
